@@ -1,0 +1,16 @@
+Pseudocode: Add Two Numbers
+Start
+Input a, b
+Sum = a + b
+Print Sum
+End
+
+Pseudocode: Check Even or Odd
+Start
+Input number
+If number % 2 == 0
+   Print "Even"
+Else
+   Print "Odd"
+End
+
